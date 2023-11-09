@@ -1,6 +1,3 @@
-<p align='center'>
-  <img src='https://repository-images.githubusercontent.com/442005408/3f8d7fed-9d3f-45c8-bcd5-0fa64e9ac535' alt='Vue.js starter template' width='600'/>
-</p>
 
 # Vue.js starter template
 
@@ -38,7 +35,7 @@ pnpm run dev
 
 ### Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lecoueyl/vue3-template)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rutvik-patel1/vue-profile)
 
 ### Github pages
 
